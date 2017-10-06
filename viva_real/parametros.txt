@@ -1,0 +1,83 @@
+"price", // preço
+"priceValue", // int_preço
+"propertyId":, // id_propiedade
+"siteUrl", // link
+"area", // area
+"areaUnit", // metragem
+"countryName", // nome_país
+"neighborhoodName", // nome_bairro 
+"cityName", // nome_cidade
+"stateName", //nome_estado
+"zoneName", // nome_zona
+"currencySymbol", // simbolo_moeda
+"bathrooms", // banheiros
+"rooms", // quartos
+"garages", // garagens 
+"latitude", // latitude
+"longitude", // longitude
+"thumbnails" > [], // thumbnails
+"isDevelopmentUnit": false, // em_construçao
+"saved": null, // salvo
+"listingType", // tipo_listagem
+"stateNormalized", // estado_padronizado
+"geolocationPrecision", // precisao_geolocalização
+"externalId", // id_externo
+"propertyTypeName", // nome_tipo_propiedade
+"propertyTypeId", // id_tipo_propiedade
+"title", // titulo
+"legend", // descrição
+"countryUrl", // url_pais
+"neighborhoodUrl", // url_bairro
+"cityUrl", // url_cidade
+"stateUrl", // url_estado
+"zoneUrl" , // url_zona
+"accountName", // nome_conta
+"accountLogo", // logo_conta
+"accountRole", // função_conta
+"accountLicenseNumber", // numero_licença_conta
+"account", // id_conta
+"email", // email
+"leadEmails", // lead_emails
+"contactName", // nome_contato
+"contactLogo", // logo_contato
+"contactPhoneNumber", // telefone_contato
+"contactCellPhoneNumber", // celular_contato
+"contactAddress", // endereco_contato
+"usageId", // id_uso
+"usageName", // nome_uso
+"businessId", // id_negocio
+"businessName", // nome_negocio
+"publicationType", // tipo_publicação
+"positioning", // posicionamento
+"salePrice", // preço_venda
+"baseSalePrice", // preço_venda_base
+"rentPrice", // preço_aluguel
+"baseRentPrice", // preço_aluguel_base
+"currency", // moeda
+"numImages", // num_imagens
+"image", // imagem
+"thumbnail", // thumbnail
+"showAddress", // mostrar_endereço
+"address", // endereço
+"zipCode", // codigo_postal
+"locationId", // id_localização
+"images" > [], // imagens
+"backgroundImage", // imagem_fundo
+"video", // video
+"constructionStatus", //status_construção
+"rentPeriodId", //id_tempo_aluguel
+"rentPeriod", //tempo_aluguel
+"suites", // suites
+"condominiumPrice", //preço_condomínio
+"iptu", // iptu
+"additionalFeatures" > [], // caracteristicas
+"developmentInformation", // informação_desenvolvimento
+"creationDate", // data_criação
+"promotions" > [], //promoções
+"geoDistance", // geo_distancia 
+"isFeatured", // destaque
+"streetId", // url_rua
+"streetName", // nome_rua
+"streetNumber", // numero_rua
+"accountPagePath", // url_conta
+"links" > [{}] // links
