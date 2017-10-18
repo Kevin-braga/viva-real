@@ -229,11 +229,11 @@ class viva_realSpider(scrapy.Spider):
 		def xml():
 
 			session = Session()
-			session.auth = HTTPBasicAuth('admin', 'jive@2017')
+			session.auth = HTTPBasicAuth('?', '?')
 			transport_with_basic_auth = Transport(session=session)
 
 			client = zeep.Client(
-				wsdl='https://jiveasset.service-now.com/x_jam_bd_cenprot_list.do?WSDL',
+				wsdl='?',
 				transport=transport_with_basic_auth
 			)
 
