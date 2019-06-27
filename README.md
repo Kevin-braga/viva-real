@@ -1,2 +1,2 @@
 # viva-real
-Código para extração do viva real pela API
+Projeto usando o Scrapy para coletar informações da API do site https://www.vivareal.com.br/
